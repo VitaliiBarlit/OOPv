@@ -1,0 +1,3 @@
+Name: Cristall
+Race: Spectre
+Heath: 30
