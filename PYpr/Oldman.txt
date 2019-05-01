@@ -1,0 +1,3 @@
+Name: Oldman
+Race: Dwarf
+Heath: 30
